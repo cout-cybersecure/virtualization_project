@@ -1,0 +1,1 @@
+/home/technetium-addict/virtualization_project/rust/vm_core/target/release/libvm_core.a: /home/technetium-addict/virtualization_project/rust/vm_core/src/lib.rs /home/technetium-addict/virtualization_project/rust/vm_core/src/vm.rs

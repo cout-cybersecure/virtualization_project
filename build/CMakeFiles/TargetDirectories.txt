@@ -1,0 +1,4 @@
+/home/technetium-addict/virtualization_project/build/CMakeFiles/vm_core_build.dir
+/home/technetium-addict/virtualization_project/build/CMakeFiles/vm_host.dir
+/home/technetium-addict/virtualization_project/build/CMakeFiles/edit_cache.dir
+/home/technetium-addict/virtualization_project/build/CMakeFiles/rebuild_cache.dir
